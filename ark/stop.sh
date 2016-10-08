@@ -1,3 +1,3 @@
 #!/bin/bash
 
-systemctl stop ark-dedicated
+sudo pkill ShooterGameServ
