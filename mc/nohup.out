@@ -35676,3 +35676,48 @@ Attemping to load JABBA data.
 [13:00:30] [Server thread/INFO] [FML]: InvTweaks: net.minecraft.inventory.ContainerBrewingStand
 [13:00:30] [Server thread/INFO] [FML]: InvTweaks: net.minecraft.inventory.ContainerBeacon
 [13:00:30] [Server thread/INFO] [FML]: InvTweaks: net.minecraft.inventory.ContainerMerchant
+[13:09:57] [User Authenticator #1/INFO]: UUID of player Xachuous is 895b0569-548f-4c75-8323-08288079b779
+[13:09:58] [Netty IO #2/INFO] [FML]: Client protocol version 2
+[13:09:58] [Netty IO #2/INFO] [FML]: Client attempting to join with 174 mods : BuildCraft|Silicon@7.1.16,ProjRed|Expansion@4.7.0pre12.95,ForgeMicroblock@1.2.0.345,iChunUtil@4.2.2,rftools@4.23,ExtraBees@2.0-pre14,PortalGun@4.0.0-beta-6,ThaumicExploration@0.6.0,springboards@0.1,EnderZoo@1.7.10-1.0.15.32,MineFactoryReloaded|CompatTwilightForest@1.7.10R2.8.1,MagicBees@2.4.3,Botany@2.0-pre14,ProjRed|Integration@4.7.0pre12.95,endercore@1.7.10-0.2.0.32_beta,Mystcraft@0.12.3.01,MineFactoryReloaded|CompatProjRed@1.7.10R2.8.1,BuildCraft|Robotics@7.1.16,McMultipart@1.2.0.345,BiomesOPlenty@2.1.0,props@2.2.1,ExtraUtilities@1.2.12,Railcraft@9.10.0.0,guideapi@1.7.10-1.0.1-20,MineFactoryReloaded|CompatRailcraft@1.7.10R2.8.1,WR-CBE|Addons@1.4.1.9,MineFactoryReloaded|CompatForestry@1.7.10R2.8.1,IC2NuclearControl@2.3.4a,ThermalFoundation@1.7.10R1.2.3,MineFactoryReloaded|CompatVanilla@1.7.10R2.8.1,ForgeMultipart@1.2.0.345,headcrumbs@1.7.4,StevesCarts@2.0.0.b18,BrandonsCore@1.0.0.12,RedstoneArsenal@1.7.10R1.1.2,MCFrames@1.0,CoFHCore@1.7.10R3.1.2,ResourceLoader@1.3,neresources@0.1.0.ManuallyBuilt,BiblioWoodsForestry@1.7,FastCraft@1.23,OpenPeripheral@0.5.1,Forge@10.13.4.1614,ExtraTrees@2.0-pre14,HatStand@4.0.0,StorageDrawers@1.7.10-1.9.7,gendustry@1.6.3.132,ThaumicTinkerer@unspecified,AdvancedSolarPanel@1.7.10-3.5.1,BuildCraft|Energy@7.1.16,modtweaker2@0.9.5,IC2@2.2.819-experimental,JABBA@1.2.1,ExtraTiC@1.4.5,MineFactoryReloaded|CompatIC2@1.7.10R2.8.1,ProjRed|Transportation@4.7.0pre12.95,FML@7.10.99.99,Natura@2.2.0,NEIAddons|Forestry@1.12.14.40,TiCTooltips@1.2.5,ThE-core@0.10.0.0,BiblioWoodsNatura@1.5,<CoFH ASM>@000,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,WailaHarvestability@1.1.6,ThermalDynamics@1.7.10R1.1.0,ProjRed|Illumination@4.7.0pre12.95,TMechworks@0.2.15.106,fastleafdecay@1.4,Botania@r1.8-249,Hats@4.0.1,LogisticsPipes@0.9.3.114,Avaritia@1.11,FTBU@1.0.17.6,FTBT@1.0.1,NotEnoughItems@1.0.5.118,Thaumcraft@4.2.3.5,Waila@1.5.10,ProjRed|Compatibility@4.7.0pre12.95,ForgeRelocation@0.0.1.4,extracells@2.3.9,TConstruct@1.7.10-1.8.8.build988,simplyjetpacks@1.5.3,StevesFactoryManager@A93,appliedenergistics2-core@rv3-beta-5,NEIAddons@1.12.14.40,BinnieCore@2.0-pre14,inpure|core@1.7.10R1.0.0B9,StorageDrawersForestry@1.7.10-1.1.2,BiblioCraft@1.11.4,BuildCraft|Core@7.1.16,OpenModsCore@0.9.1,ImmersiveEngineering@0.7.5,SolarExpansion@1.6a,bdlib@1.9.4.109,NEIAddons|Developer@1.12.14.40,tcinventoryscan@1.0.11,wawla@1.3.3,RelocationFMP@0.0.1.2,Genetics@2.0-pre14,mcp@9.05,Mantle@1.7.10-0.3.2.jenkins191,ProjRed|Transmission@4.7.0pre12.95,journeymap@5.1.4,appliedenergistics2@rv3-beta-5,thaumcraftneiplugin@@VERSION@,WR-CBE|Logic@1.4.1.9,OpenPeripheralIntegration@0.5,MineFactoryReloaded|CompatTConstruct@1.7.10R2.8.1,MineFactoryReloaded|CompatAppliedEnergistics@1.7.10R2.8.1,DraconicEvolution@1.0.2a,WR-CBE|Core@1.4.1.9,inventorytweaks@1.59-dev-152-cf6e263,MineFactoryReloaded|CompatBuildCraft@1.7.10R2.8.1,StorageDrawersMisc@1.7.10-1.1.2,harvestcraft@1.7.10j,Morpheus@1.7.10-1.6.21,ThermalExpansion@1.7.10R4.1.2,TwilightForest@2.3.7,BuildCraft|Factory@7.1.16,MineFactoryReloaded|CompatThaumcraft@1.7.10R2.8.1,GraviSuite@1.7.10-2.0.3,AgriCraft@1.7.10-1.5.0,OpenPeripheralCore@1.3,NEIAddons|AppEng@1.12.14.40,OpenBlocks@1.5.1,EnderStorage@1.4.7.37,ForbiddenMagic@1.7.10-0.574,EnderTech@1.7.10-0.3.2.405,FTBL@1.0.17.6,MineFactoryReloaded|CompatForgeMicroblock@1.7.10R2.8.1,CarpentersBlocks@3.3.7,MineFactoryReloaded@1.7.10R2.8.1,StevesWorkshop@0.5.1,EnderIO@1.7.10-2.3.0.424_beta,BuildCraft|Compat@7.1.3,Translocator@1.1.2.15,ComputerCraft@1.75,funkylocomotion@1.0,CustomMainMenu@1.9.2,neiintegration@1.1.2,AWWayofTime@v1.3.3,MrTJPCoreMod@1.1.0.33,immersiveintegration@0.6.8,IronChest@6.0.62.742,NEIAddons|Botany@1.12.14.40,MineFactoryReloaded|CompatThermalExpansion@1.7.10R2.8.1,thaumicenergistics@1.0.0.1,CodeChickenCore@1.0.7.47,BigReactors@0.4.3A,MineTweaker3@3.0.10,BinniePatcher@1.7.1,ThaumicTinkerer-preloader@0.1,aobd@2.9.1,NetherOres@1.7.10R2.3.1,debug@1.0,StorageDrawersNatura@1.7.10-1.1.1,BuildCraft|Transport@7.1.16,StorageDrawersBop@1.7.10-1.1.1,chisel@2.9.5.11,Baubles@1.0.1.10,StevesAddons@0.10.16,ProjRed|Core@4.7.0pre12.95,denseores@1.0,ProjRed|Exploration@4.7.0pre12.95,witchery@0.24.1,Forestry@4.2.11.59,OpenMods@0.9.1,BiblioWoodsBoP@1.9,PTRModelLib@1.0.0,BuildCraft|Builders@7.1.16,ChocoPatcher@1.1,runicdungeons@1.1.6a
+[13:09:58] [Netty IO #2/INFO] [journeymap]: CLIENT
+[13:09:58] [Netty IO #2/INFO] [FML]: Attempting connection with missing mods [ForgeIRC] at CLIENT
+[13:09:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Sync dimensions to client
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: Sending over dimension 2 to the client
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: Sending over dimension 3 to the client
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: Sending over dimension 4 to the client
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: Sending over dimension 5 to the client
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: Sending over dimension 6 to the client
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: Sending over dimension 7 to the client
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: Sending over dimension 8 to the client
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: Sending over dimension 9 to the client
+[13:09:59] [Server thread/INFO]: Xachuous[/24.16.123.62:60882] logged in with entity id 5713 at (-39.5, 74.0999984741211, 1481.5)
+[13:09:59] [Server thread/INFO]: Xachuous joined the game
+[13:09:59] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[13:09:59] [Server thread/INFO] [AgriCraft]: Sending mutations to player: Xachuous
+[13:09:59] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Xachuous'/5713, l='world', x=-39.50, y=74.10, z=1481.50] connected. Sending ping
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Player logged in: Sync diminfo to clients
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: Sync dimension info to clients!
+[13:09:59] [Server thread/INFO] [mcjty.lib.varia.Logging]: Send validation data to the client
+[13:10:01] [Server thread/INFO] [STDOUT]: [mcjty.lib.preferences.PreferencesProperties:syncToClient:38]: syncToClient: style = STYLE_FLAT_GRADIENT
+[14:52:01] [Netty IO #2/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException
+[14:52:01] [Server thread/INFO]: Xachuous lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:52:01] [Server thread/INFO]: Xachuous left the game
+[15:00:23] [Server thread/INFO]: Server Backup started!
+[15:00:23] [Server thread/INFO]: Turned off world auto-saving
+[15:00:23] [Server thread/INFO]: Saving...
+[15:00:23] [Server thread/INFO]: Saved the world
+[15:00:23] [Thread-29/INFO] [FTBU Backups]: Backing up 1938 files...
+[15:00:23] [Thread-29/INFO] [FTBU Backups]: Compressing 1938 files!
+[15:00:23] [Thread-29/INFO] [FTBU Backups]: [0 | 0.00%]: world/region/r.4.1.mca
+[15:00:28] [Thread-29/INFO] [FTBU Backups]: [54 | 2.79%]: world/region/r.-6.-1.mca
+[15:00:33] [Thread-29/INFO] [FTBU Backups]: [94 | 4.85%]: world/region/r.-6.0.mca
+[15:00:38] [Thread-29/INFO] [FTBU Backups]: [1156 | 59.65%]: world/DIM3/region/r.0.2.mca
+[15:00:40] [Thread-29/INFO] [FTBU Backups]: [1937 | 99.95%]: world/cofh/EnderFrequencies.cfg
+[15:00:41] [Thread-29/INFO] [FTBU Backups]: Done compressing in 00:00:17 seconds (573.7MB)!
+[15:00:41] [Thread-29/INFO] [FTBU Backups]: Created /home/mc/FTBServer_2_5_0/./backups/2016-10-08-15-00-23/backup.zip from /home/mc/FTBServer_2_5_0/./world
+[15:00:41] [Thread-29/INFO] [FTBU Backups]: Deleting 1 old backups
+[15:00:41] [Thread-29/INFO] [FTBU Backups]: Deleted old backup: ./backups/2016-07-09-22-24-03
+[15:00:41] [Thread-29/INFO]: Server backup done in 00:00:17! (573.7MB | 6.7GB)
+[15:00:41] [Server thread/INFO]: Turned on world auto-saving
