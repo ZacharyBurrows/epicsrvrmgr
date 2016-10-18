@@ -22,3 +22,57 @@ CtrlCHandler: Signal=15
 /home/ark/epicsrvrmgr/ark/start.sh: line 2: 27519 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=dickbuttFTW?ServerPassword=dickbutt?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache
 [S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
 Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 27723 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=dickbuttFTW?ServerPassword=dickbutt?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 17665 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=dickbuttFTW?ServerPassword=dickbutt?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 17864 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=dickbuttFTW?ServerPassword=dickbutt?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 17946 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=dickbuttFTW?ServerPassword=dickbutt?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 18043 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=dickbuttFTW?ServerPassword=dickbutt?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 18214 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=dickbuttFTW?ServerPassword=dickbutt?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  1399 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=dickbuttFTW?ServerPassword=dickbutt?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 13940 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=dickbuttFTW?ServerPassword=dickbutt?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CreateBoundSocket: ::bind couldn't find an open port between 27015 and 27015
+CreateBoundSocket: ::bind couldn't find an open port between 27015 and 27015
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 14085 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=dickbuttFTW?ServerPassword=dickbutt?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache
