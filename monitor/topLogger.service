@@ -1,0 +1,5 @@
+[Unit]
+Description=logs_data_from_game_servers
+
+[Service]
+ExecStart=/home/ark/epicsrvrmgr/monitor/logArkResourceUsage.sh

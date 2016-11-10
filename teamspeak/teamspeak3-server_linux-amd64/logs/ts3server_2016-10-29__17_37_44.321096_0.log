@@ -1,0 +1,16 @@
+2016-10-29 17:37:44.321156|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.3 (2015-04-13 13:26:31)
+2016-10-29 17:37:44.321215|INFO    |ServerLibPriv |   | SystemInformation: Linux 4.4.0-45-generic #66-Ubuntu SMP Wed Oct 19 14:12:37 UTC 2016 x86_64 Binary: 64bit
+2016-10-29 17:37:44.321722|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-10-29 17:37:44.321751|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2016-10-29 17:37:44.321959|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2016-10-29 17:37:44.331028|INFO    |SQL           |   | db_CreateTables() tables created
+2016-10-29 17:37:44.411494|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2016-10-29 17:37:44.951223|INFO    |              |   | Puzzle precompute time: 531
+2016-10-29 17:37:44.951509|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2016-10-29 17:37:44.953483|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-10-29 17:37:44.953564|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-10-29 17:37:45.070217|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2016-10-29 17:37:45.070544|INFO    |Query         |   | listening on 0.0.0.0:10011
+2016-11-01 00:01:44.508307|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-11-01 00:01:44.510232|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-11-08 08:43:57.799301|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11

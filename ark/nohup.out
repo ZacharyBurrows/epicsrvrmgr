@@ -103,3 +103,129 @@ Using binned.
 4.5.1-0+UE4 7038 3077 402 6
 CtrlCHandler: Signal=15
 CtrlCHandler: Signal=1
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsncTCPSocket destroyed
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  1675 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  7388 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  8391 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  8727 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  8813 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  8901 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  9014 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=1
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  2443 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 11139 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+STEAMPS3 - AsncTCPSocket destroyed
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 11346 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110

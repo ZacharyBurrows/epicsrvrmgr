@@ -1,4 +1,3 @@
 #!/bin/bash
 
-top > top.log
-
+nohup /home/ark/epicsrvrmgr/monitor/logArkResourceUsage.sh &
