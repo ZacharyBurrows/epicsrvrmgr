@@ -14,3 +14,9 @@
 2016-11-01 00:01:44.508307|INFO    |VirtualSvrMgr |   | executing monthly interval
 2016-11-01 00:01:44.510232|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
 2016-11-08 08:43:57.799301|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-11-13 02:14:12.145487|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2016-12-01 00:01:44.509731|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-12-01 00:01:44.513329|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-12-05 19:25:36.040960|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-12-05 19:35:38.026918|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-12-05 20:35:35.149175|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11

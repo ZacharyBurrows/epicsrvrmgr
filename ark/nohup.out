@@ -229,3 +229,47 @@ CtrlCHandler: Signal=15
 /home/ark/epicsrvrmgr/ark/start.sh: line 2: 11346 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
 [S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
 Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 12762 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 12246 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 24636 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 26181 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 30427 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  8246 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110

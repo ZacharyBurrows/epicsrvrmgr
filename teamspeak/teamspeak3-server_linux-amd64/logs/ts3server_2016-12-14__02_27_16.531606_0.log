@@ -1,0 +1,17 @@
+2016-12-14 02:27:16.531681|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.3 (2015-04-13 13:26:31)
+2016-12-14 02:27:16.532367|INFO    |ServerLibPriv |   | SystemInformation: Linux 4.4.0-47-generic #68-Ubuntu SMP Wed Oct 26 19:39:52 UTC 2016 x86_64 Binary: 64bit
+2016-12-14 02:27:16.540296|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-12-14 02:27:16.541256|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2016-12-14 02:27:16.542935|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2016-12-14 02:27:16.559467|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2016-12-14 02:27:17.028734|INFO    |              |   | Puzzle precompute time: 457
+2016-12-14 02:27:17.029172|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2016-12-14 02:27:17.029264|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 2
+2016-12-14 02:27:17.029289|ERROR   |              |   | Could not open default UDP connection for weblist
+2016-12-14 02:27:17.055378|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2016-12-14 02:27:17.059927|INFO    |Query         |   | listening on 0.0.0.0:10011
+2016-12-17 09:43:33.086116|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-12-17 09:53:35.083607|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-12-17 10:13:31.991099|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-12-17 10:23:32.087960|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-12-17 10:33:34.081760|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
