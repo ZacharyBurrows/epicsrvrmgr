@@ -15,3 +15,11 @@
 2016-12-17 10:13:31.991099|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
 2016-12-17 10:23:32.087960|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
 2016-12-17 10:33:34.081760|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-01-01 00:00:16.559977|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-01-01 00:00:16.561073|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-01-12 06:27:47.633464|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-01-12 06:37:49.102400|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-02-01 00:00:16.646118|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-02-01 00:00:16.648748|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-02-01 05:20:41.919694|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2017-02-03 07:11:17.038595|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
