@@ -1,0 +1,13 @@
+2017-02-22 03:59:01.744129|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.3 (2015-04-13 13:26:31)
+2017-02-22 03:59:01.744769|INFO    |ServerLibPriv |   | SystemInformation: Linux 4.4.0-63-generic #84-Ubuntu SMP Wed Feb 1 17:20:32 UTC 2017 x86_64 Binary: 64bit
+2017-02-22 03:59:01.786388|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-02-22 03:59:01.790210|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2017-02-22 03:59:01.798464|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2017-02-22 03:59:01.822064|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2017-02-22 03:59:02.426155|INFO    |              |   | Puzzle precompute time: 587
+2017-02-22 03:59:02.428028|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2017-02-22 03:59:02.428117|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 2
+2017-02-22 03:59:02.428140|ERROR   |              |   | Could not open default UDP connection for weblist
+2017-02-22 03:59:02.448991|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2017-02-22 03:59:02.449395|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-02-23 01:00:55.176388|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.

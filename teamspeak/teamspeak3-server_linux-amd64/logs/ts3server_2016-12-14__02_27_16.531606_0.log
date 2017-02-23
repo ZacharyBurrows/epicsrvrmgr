@@ -23,3 +23,4 @@
 2017-02-01 00:00:16.648748|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
 2017-02-01 05:20:41.919694|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
 2017-02-03 07:11:17.038595|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-02-03 19:52:17.497472|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.

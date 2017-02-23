@@ -294,3 +294,115 @@ CtrlCHandler: Signal=15
 /home/ark/epicsrvrmgr/ark/start.sh: line 2: 28676 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
 [S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
 Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 24836 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  4713 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 6
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=1
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 7
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  1938 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Signal 11 caught.
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  2912 Segmentation fault      (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 7
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  2190 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 7
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 10318 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 7
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  3754 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 7
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=1
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+LowLevelFatalError [File:C:\SVN_Ark\Engine\Source\Runtime\Core\Private\Linux\LinuxPlatformProcess.cpp] [Line: 652] 
+FLinuxPlatformProcess::WaitForProc: waitid for pid -1 failed (errno=22, Invalid argument)
+Signal 11 caught.
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  7925 Segmentation fault      (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES -automanagedmods
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+LowLevelFatalError [File:C:\SVN_Ark\Engine\Source\Runtime\Core\Private\Linux\LinuxPlatformProcess.cpp] [Line: 652] 
+FLinuxPlatformProcess::WaitForProc: waitid for pid -1 failed (errno=22, Invalid argument)
+Signal 11 caught.
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  8731 Segmentation fault      (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES -automanagedmods
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+LowLevelFatalError [File:C:\SVN_Ark\Engine\Source\Runtime\Core\Private\Linux\LinuxPlatformProcess.cpp] [Line: 652] 
+FLinuxPlatformProcess::WaitForProc: waitid for pid -1 failed (errno=22, Invalid argument)
+Signal 11 caught.
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  2100 Segmentation fault      (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES -automanagedmods
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+LowLevelFatalError [File:C:\SVN_Ark\Engine\Source\Runtime\Core\Private\Linux\LinuxPlatformProcess.cpp] [Line: 652] 
+FLinuxPlatformProcess::WaitForProc: waitid for pid -1 failed (errno=22, Invalid argument)
+Signal 11 caught.
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  2813 Segmentation fault      (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES -automanagedmods
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+LowLevelFatalError [File:C:\SVN_Ark\Engine\Source\Runtime\Core\Private\Linux\LinuxPlatformProcess.cpp] [Line: 652] 
+FLinuxPlatformProcess::WaitForProc: waitid for pid -1 failed (errno=22, Invalid argument)
+Signal 11 caught.
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  2971 Segmentation fault      (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES -automanagedmods
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+LowLevelFatalError [File:C:\SVN_Ark\Engine\Source\Runtime\Core\Private\Linux\LinuxPlatformProcess.cpp] [Line: 652] 
+FLinuxPlatformProcess::WaitForProc: waitid for pid -1 failed (errno=22, Invalid argument)
+Signal 11 caught.
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  3132 Segmentation fault      (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES -automanagedmods
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+LowLevelFatalError [File:C:\SVN_Ark\Engine\Source\Runtime\Core\Private\Linux\LinuxPlatformProcess.cpp] [Line: 652] 
+FLinuxPlatformProcess::WaitForProc: waitid for pid -1 failed (errno=22, Invalid argument)
+Signal 11 caught.
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  3150 Segmentation fault      (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES -automanagedmods
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+LowLevelFatalError [File:C:\SVN_Ark\Engine\Source\Runtime\Core\Private\Linux\LinuxPlatformProcess.cpp] [Line: 652] 
+FLinuxPlatformProcess::WaitForProc: waitid for pid -1 failed (errno=22, Invalid argument)
+Signal 11 caught.
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  3310 Segmentation fault      (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES -automanagedmods
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+LowLevelFatalError [File:C:\SVN_Ark\Engine\Source\Runtime\Core\Private\Linux\LinuxPlatformProcess.cpp] [Line: 652] 
+FLinuxPlatformProcess::WaitForProc: waitid for pid -1 failed (errno=22, Invalid argument)
+Signal 11 caught.
+/home/ark/epicsrvrmgr/ark/start.sh: line 2:  3460 Segmentation fault      (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES -automanagedmods
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
