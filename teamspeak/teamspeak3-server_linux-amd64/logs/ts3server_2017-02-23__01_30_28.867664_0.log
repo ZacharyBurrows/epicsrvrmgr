@@ -10,3 +10,5 @@
 2017-02-23 01:30:29.518217|ERROR   |              |   | Could not open default UDP connection for weblist
 2017-02-23 01:30:29.676926|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
 2017-02-23 01:30:29.677320|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-02-24 13:26:21.519576|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-02-26 19:05:31.865302|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.

@@ -1,0 +1,7 @@
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 346110
+Using binned.
+4.5.1-0+UE4 7038 3077 402 7
+CtrlCHandler: Signal=15
+CtrlCHandler: Signal=15
+/home/ark/epicsrvrmgr/ark/start.sh: line 2: 30372 Aborted                 (core dumped) sudo /home/ark/serverfiles/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?listen?SessionName=rocksandtrees?ServerPassword=andwater?ServerAdminPassword=hondaktm -server -log -servergamelog -usecache -ForceAllowCaveFlyers -nomansky -OverideStructurePlatformPrevention=true -USEALLAVAILABLECORES
