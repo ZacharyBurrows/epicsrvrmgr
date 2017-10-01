@@ -1,3 +1,4 @@
-#!/bin/bash
+# !/bin/bash
 
-sudo pkill java
+tmux kill-session -t mc
+

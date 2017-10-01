@@ -1,0 +1,22 @@
+2017-04-15 18:41:12.730031|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.3 (2015-04-13 13:26:31)
+2017-04-15 18:41:12.731781|INFO    |ServerLibPriv |   | SystemInformation: Linux 4.4.0-72-generic #93-Ubuntu SMP Fri Mar 31 14:07:41 UTC 2017 x86_64 Binary: 64bit
+2017-04-15 18:41:12.740183|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-04-15 18:41:12.740640|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2017-04-15 18:41:12.742523|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2017-04-15 18:41:12.757596|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2017-04-15 18:41:13.391178|INFO    |              |   | Puzzle precompute time: 622
+2017-04-15 18:41:13.392996|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2017-04-15 18:41:13.393081|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 2
+2017-04-15 18:41:13.393104|ERROR   |              |   | Could not open default UDP connection for weblist
+2017-04-15 18:41:13.418925|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2017-04-15 18:41:13.419600|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-04-26 00:37:58.392681|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-04-28 12:38:15.072702|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-04-30 17:38:09.160717|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2017-04-30 20:58:30.055464|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-05-01 00:02:12.854813|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-05-01 00:02:12.856884|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-05-03 18:38:26.420395|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2017-05-03 18:58:46.495203|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-05-29 00:41:26.136946|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-05-29 20:38:54.236666|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.

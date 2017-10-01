@@ -1,0 +1,17 @@
+2017-05-30 23:02:02.689955|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.3 (2015-04-13 13:26:31)
+2017-05-30 23:02:02.692514|INFO    |ServerLibPriv |   | SystemInformation: Linux 4.4.0-78-generic #99-Ubuntu SMP Thu Apr 27 15:29:09 UTC 2017 x86_64 Binary: 64bit
+2017-05-30 23:02:02.703251|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-05-30 23:02:02.704138|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2017-05-30 23:02:02.707025|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2017-05-30 23:02:02.724108|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2017-05-30 23:02:03.304133|INFO    |              |   | Puzzle precompute time: 565
+2017-05-30 23:02:03.304595|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2017-05-30 23:02:03.304683|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 2
+2017-05-30 23:02:03.304706|ERROR   |              |   | Could not open default UDP connection for weblist
+2017-05-30 23:02:03.325534|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2017-05-30 23:02:03.326001|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-06-01 00:02:02.753098|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-06-01 00:02:02.755277|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-06-01 09:17:32.075339|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-06-01 09:27:34.074883|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-06-01 09:47:30.224969|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11

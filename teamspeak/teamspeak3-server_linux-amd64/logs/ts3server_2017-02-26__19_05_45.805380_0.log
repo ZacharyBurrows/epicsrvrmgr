@@ -10,3 +10,4 @@
 2017-02-26 19:05:46.582647|ERROR   |              |   | Could not open default UDP connection for weblist
 2017-02-26 19:05:46.608134|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
 2017-02-26 19:05:46.608732|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-02-27 21:06:05.796465|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.
