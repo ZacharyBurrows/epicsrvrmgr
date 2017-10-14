@@ -10,3 +10,26 @@
 2017-10-01 18:23:13.350465|ERROR   |              |   | Could not open default UDP connection for weblist
 2017-10-01 18:23:13.376325|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
 2017-10-01 18:23:13.376706|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-10-01 20:08:14.110934|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:08:14.111064|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:08:16.029536|ERROR   |              |   | TS3ANetwork::Connect failed error: 22
+2017-10-01 20:08:16.029642|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-01 20:08:16.029725|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:08:16.029790|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:08:18.032821|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:08:18.032954|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:18:14.162343|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:18:14.162486|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:18:16.065434|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:18:16.065554|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:18:18.084111|ERROR   |              |   | TS3ANetwork::Connect failed error: 22
+2017-10-01 20:18:18.084230|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-01 20:18:18.084307|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:18:18.084380|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:28:14.229659|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:28:14.229789|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:28:16.032515|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:28:16.032650|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:28:18.035674|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:28:18.035807|ERROR   |              |   | TS3ANetwork::Send failed error: 22
+2017-10-01 20:34:40.186088|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.
