@@ -10,3 +10,8 @@
 2017-10-14 19:25:10.337835|ERROR   |              |   | Could not open default UDP connection for weblist
 2017-10-14 19:25:10.358623|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
 2017-10-14 19:25:10.358994|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-10-17 17:20:43.076142|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-11-01 00:01:09.865614|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-11-01 00:01:09.868033|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-12-01 00:01:09.869354|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-12-01 00:01:09.871688|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
