@@ -1,6 +1,6 @@
 #!/bin/bash
 
-/home/ark/steamcmd/steamcmd.sh +login anonymous +force_install_dir /home/ark/ +app_update 376030 -beta holidayevent validate +quit
+/home/ark/steamcmd/steamcmd.sh +login anonymous +force_install_dir /home/ark/serverfiles +app_update 376030 -beta holidayevent validate +quit
 
 sudo chown -R ark: /home/ark/*
 

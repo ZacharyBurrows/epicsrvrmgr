@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Stopping ark server"
 echo dickbutt | sudo -S /home/ark/epicsrvrmgr/ark/stop.sh
 
 echo "MAKING ark OWNER OF ALL FILES IN /home/ark"

@@ -10,3 +10,17 @@
 2017-12-22 00:21:32.284170|ERROR   |              |   | Could not open default UDP connection for weblist
 2017-12-22 00:21:32.305022|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
 2017-12-22 00:21:32.305457|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-12-28 09:17:04.068233|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-12-28 09:27:06.021852|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2018-01-01 00:00:31.820378|INFO    |VirtualSvrMgr |   | executing monthly interval
+2018-01-01 00:00:31.822788|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2018-01-24 12:59:00.057851|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2018-01-25 09:08:41.500569|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2018-01-25 09:18:43.052746|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2018-01-25 09:38:41.568917|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2018-01-25 09:48:43.012738|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2018-01-25 09:58:45.062661|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2018-01-30 09:59:18.196383|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2018-02-01 00:00:31.818995|INFO    |VirtualSvrMgr |   | executing monthly interval
+2018-02-01 00:00:31.821464|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2018-02-18 22:00:48.311600|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.
