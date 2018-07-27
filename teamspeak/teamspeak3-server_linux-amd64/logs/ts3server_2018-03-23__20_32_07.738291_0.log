@@ -18,3 +18,4 @@
 2018-06-01 00:02:07.881554|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
 2018-07-01 00:02:07.870115|INFO    |VirtualSvrMgr |   | executing monthly interval
 2018-07-01 00:02:07.872424|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2018-07-27 20:09:18.322213|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.
