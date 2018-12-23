@@ -1,0 +1,20 @@
+2018-10-29 04:44:42.998974|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.3 (2015-04-13 13:26:31)
+2018-10-29 04:44:42.999850|INFO    |ServerLibPriv |   | SystemInformation: Linux 4.4.0-138-generic #164-Ubuntu SMP Tue Oct 2 17:16:02 UTC 2018 x86_64 Binary: 64bit
+2018-10-29 04:44:43.007393|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2018-10-29 04:44:43.007971|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2018-10-29 04:44:43.009733|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2018-10-29 04:44:43.029065|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2018-10-29 04:44:43.718798|INFO    |              |   | Puzzle precompute time: 675
+2018-10-29 04:44:44.238671|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2018-10-29 04:44:44.238811|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 2
+2018-10-29 04:44:44.238846|ERROR   |              |   | Could not open default UDP connection for weblist
+2018-10-29 04:44:44.989874|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2018-10-29 04:44:44.990310|INFO    |Query         |   | listening on 0.0.0.0:10011
+2018-11-01 00:02:43.053410|INFO    |VirtualSvrMgr |   | executing monthly interval
+2018-11-01 00:02:43.055511|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2018-11-20 13:21:24.018020|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2018-11-20 13:21:26.002218|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2018-11-20 13:31:22.045042|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2018-12-01 00:02:43.098947|INFO    |VirtualSvrMgr |   | executing monthly interval
+2018-12-01 00:02:43.101113|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2018-12-21 22:42:27.352190|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.

@@ -1,0 +1,63 @@
+[16:58:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:58:48] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:58:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:58:48] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[16:58:48] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2707 for Minecraft 1.12.2 loading
+[16:58:48] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_171, running on Linux:amd64:4.4.0-131-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[16:58:48] [main/DEBUG] [FML]: Java classpath at launch is:
+[16:58:48] [main/DEBUG] [FML]:     /home/mc/FTBSevTechAges_3_0_8/forge-1.12.2-14.23.4.2707-universal.jar
+[16:58:48] [main/DEBUG] [FML]: Java library path at launch is:
+[16:58:48] [main/DEBUG] [FML]:     /usr/java/packages/lib/amd64
+[16:58:48] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu/jni
+[16:58:48] [main/DEBUG] [FML]:     /lib/x86_64-linux-gnu
+[16:58:48] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu
+[16:58:48] [main/DEBUG] [FML]:     /usr/lib/jni
+[16:58:48] [main/DEBUG] [FML]:     /lib
+[16:58:48] [main/DEBUG] [FML]:     /usr/lib
+[16:58:48] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: /home/mc/FTBSevTechAges_3_0_8/libraries
+[16:58:48] [main/DEBUG] [FML]: Cleaning up mods folder: ./mods
+[16:58:48] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[16:58:48] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[16:58:48] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[16:58:48] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:58:48] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[16:58:48] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[16:58:48] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[16:58:48] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[16:58:48] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:58:48] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[16:58:48] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[16:58:48] [main/DEBUG] [FML]: Discovering coremods
+[16:58:48] [main/INFO] [FML]: Searching /home/ark/epicsrvrmgr/mc/./mods for mods
+[16:58:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:58:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:58:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:58:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:58:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:58:48] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[16:58:48] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[16:58:48] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[16:58:48] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[16:58:48] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[16:58:48] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[16:58:48] [main/DEBUG] [FML]: Injection complete
+[16:58:48] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[16:58:48] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[16:58:49] [main/DEBUG] [FML]: Read 1094 binary patches
+[16:58:49] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36083 records
+[16:58:49] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:58:49] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[16:58:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:58:49] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[16:58:49] [main/DEBUG] [FML]: Injection complete
+[16:58:49] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[16:58:49] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[16:58:49] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[16:58:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:58:49] [main/DEBUG] [FML]: Loaded 209 rules from AccessTransformer config file forge_at.cfg
+[16:58:49] [main/DEBUG] [FML]: Validating minecraft
+[16:58:50] [main/DEBUG] [FML]: Minecraft validated, launching...
+[16:58:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:58:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:58:50] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[16:58:50] [main/INFO] [net.minecraft.server.MinecraftServer]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.

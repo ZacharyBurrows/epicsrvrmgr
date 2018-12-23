@@ -1,0 +1,12 @@
+2018-12-23 18:22:44.642565|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.3 (2015-04-13 13:26:31)
+2018-12-23 18:22:44.647331|INFO    |ServerLibPriv |   | SystemInformation: Linux 4.4.0-141-generic #167-Ubuntu SMP Wed Dec 5 10:40:15 UTC 2018 x86_64 Binary: 64bit
+2018-12-23 18:22:44.663518|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2018-12-23 18:22:44.664570|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2018-12-23 18:22:44.672887|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2018-12-23 18:22:44.698433|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2018-12-23 18:22:45.374422|INFO    |              |   | Puzzle precompute time: 659
+2018-12-23 18:22:45.376233|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2018-12-23 18:22:45.376324|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 2
+2018-12-23 18:22:45.376349|ERROR   |              |   | Could not open default UDP connection for weblist
+2018-12-23 18:22:45.402418|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2018-12-23 18:22:45.402826|INFO    |Query         |   | listening on 0.0.0.0:10011
